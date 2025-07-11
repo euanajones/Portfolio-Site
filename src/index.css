@@ -1,6 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 @import "tailwindcss";
 
 @theme {
-  --font-rubik: "Rubik", "sans";
+  --text: #dbe5fa;
+  --background: #040b20;
+  --primary: #85a5ef;
+  --secondary: #801390;
+  --accent: #e641ba;
 }
